@@ -123,11 +123,7 @@
                            href="javascript:deleteUser(${user.id});">删除</a>
                     </td>
                 </tr>
-
-
             </c:forEach>
-
-
         </table>
     </form>
     <div>
